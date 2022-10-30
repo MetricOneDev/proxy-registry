@@ -1,2 +1,2 @@
 # ProxyRegistry
-![Build Status](https://github.com/makerdao/proxy-registry/actions/workflows/.github/workflows/tests.yaml/badge.svg?branch=master)
+[![.github/workflows/tests.yaml](https://github.com/MetricOneDev/proxy-registry/actions/workflows/tests.yaml/badge.svg)](https://github.com/MetricOneDev/proxy-registry/actions/workflows/tests.yaml)
